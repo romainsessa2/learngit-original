@@ -1,3 +1,3 @@
 # learngit-original
-Update online to generate conflict
+Update local to generate conflict
 By Romain SESSA
