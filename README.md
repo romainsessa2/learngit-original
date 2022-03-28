@@ -1,3 +1,3 @@
 # learngit-original
-
-By Romain SESSA
+Update local again to generate conflict
+- By Romain SESSA
